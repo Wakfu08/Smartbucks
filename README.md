@@ -1,1 +1,4 @@
 # Smartbucks
+I have extensive learning as a React Native App Developer and have recently developed an impressive app that incorporates machine learning capabilities. 
+In the app, I have utilized React Native framework and included a sample.js file. This file interacts with a powerful machine learning model coded in Python called the Monthly_Expense_Predictor. The model, available in my GitHub repository, enables accurate prediction of monthly expenses.  
+To facilitate data communication, I have implemented a Flask API that seamlessly posts the data to localhost on port 5000. This API acts as a bridge between the app and the machine learning model, ensuring smooth data flow and optimal functionality.  My learing lies not only in app development but also in integrating machine learning components, creating a seamless user experience. 
